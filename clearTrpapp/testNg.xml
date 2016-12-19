@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="ClearTripTest_example">
-<parameter name="appURL" value="https://www.google.co.in/"/>
+<parameter name="appURL" value="https://www.cleartrip.com/"/>
 <parameter name="browserType" value="firefox"/>
   <test name="sample test">
     <classes>
